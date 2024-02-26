@@ -18,16 +18,21 @@ div{
 h1,h2{
 	text-align:center;
 }
+li{
+	list-style-type:none;
+}
 
 .player_one{
 	height:500px;
 	width:80%;
 	position:center;
 	padding-left:100px;
+	background-color:rgb(255, 255, 255);
 }
 
 .player_two{
 	width:80%;
 	position:center;
 	padding-left:50px;
+	background-color:rgb(255, 255, 255);
 }
